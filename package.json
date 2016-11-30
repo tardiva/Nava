@@ -1,0 +1,14 @@
+{
+  "name": "nava-example",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.1.0",
+    "gulp-css": "^0.1.0",
+    "gulp-rename": "^1.2.2",
+    "less-plugin-autoprefix": "^1.5.1"
+  }
+}
